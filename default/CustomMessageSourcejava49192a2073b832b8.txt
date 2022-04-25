@@ -1,0 +1,1 @@
+{"version":"49192a2073b832b8","fileName":"CustomMessageSource.java","fileSimpleName":"CustomMessageSource","fileType":"java","notes":{"19":"通过重写三个方法来实现从数据库读取国际化多语言配置"}}
