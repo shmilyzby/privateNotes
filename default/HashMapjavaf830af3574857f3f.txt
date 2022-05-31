@@ -1,0 +1,1 @@
+{"version":"f830af3574857f3f","fileName":"HashMap.java","fileSimpleName":"HashMap","fileType":"java","notes":{"628":"如果 table 为空， 或者 table 里还没有元素，则进行扩容"}}
