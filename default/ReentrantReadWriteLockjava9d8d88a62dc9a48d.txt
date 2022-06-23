@@ -1,0 +1,1 @@
+{"version":"9d8d88a62dc9a48d","fileName":"ReentrantReadWriteLock.java","fileSimpleName":"ReentrantReadWriteLock","fileType":"java","notes":{"469":"读锁不被 block","470":"加锁次数小于最大值","471":"进行读锁的加锁，state + 1","472":"如果读锁次数为 0 说明当前线程为第一个读的","475":"如果读锁不为 0，但当前线程是第一个读的线程，说明是重入读的","477":"如果读锁不为  0，并且第一个读的线程不是当前线程，说明有多个线程有读锁"}}
